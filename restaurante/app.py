@@ -85,7 +85,12 @@ def Menu():
         limpar_tela()
 
 
+  
 
+
+
+
+  
     elif resposta == "7":
         print("Obrigado por usar o Restaurante!")
         exit()
